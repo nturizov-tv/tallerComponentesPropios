@@ -4,8 +4,8 @@ Aplicación web para llevar el control semanal de hábitos: se crean hábitos, s
 
 ## Autor
 
-- **Nombre:** Samuel Martínez Bayona
-- **Código:** 0192703
+- **Nombre:** Nashely Turizo Villareal
+- **Código:** 0192761
 
 ## Tecnologías
 
@@ -56,7 +56,7 @@ tablero-habitos/
 Requisitos: Node.js 20.19 o superior y Git.
 
 ```bash
-git clone https://github.com/TU-USUARIO/tablero-habitos.git
+git clone https://github.com/nturizov-tv/tablero-habitos.git
 cd tablero-habitos
 npm install
 npm run dev
@@ -73,10 +73,3 @@ Leí la documentación oficial en [react.dev](https://react.dev/) y estos fueron
 - **Renderizado de listas**: usar `map` con una `key` única en cada elemento.
 - **Elevar el estado**: mantener el estado en `App.jsx` y pasar funciones como props a los hijos.
 - **Novedades de React 19**: `useActionState` para formularios y `<title>` dentro de componentes.
-
-
-![Vista de la aplicación](./captura.png)
-
-## Licencia
-
-Proyecto académico de uso libre.
